@@ -17,7 +17,7 @@
 <br>
 
 <p align="center">
-  <img alt="Happy" src="public/nlw.jpg" width="100%">
+  <img alt="NLW" src="public/nlw.jpg" width="100%">
 </p>
 
 ## ✨ Tecnologias
