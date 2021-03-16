@@ -17,7 +17,7 @@
 <br>
 
 <p align="center">
-  <img alt="Happy" src=".github/preview.png" width="100%">
+  <img alt="Happy" src="public/nlw.png" width="100%">
 </p>
 
 ## ✨ Tecnologias
@@ -48,11 +48,3 @@ Esse projeto foi desenvolvido durante a trilha de NodeJS, na quarta edição da 
 - Inicie o servidor com `yarn dev`
 
 A aplicação pode ser acessada em [`localhost:3333`](http://localhost:3333).
-
-## 📄 Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
-
----
-
-Feito com ♥ by Rocketseat 👋🏻 [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
